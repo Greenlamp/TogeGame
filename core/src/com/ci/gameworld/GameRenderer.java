@@ -69,7 +69,7 @@ public class GameRenderer {
 		setStory(table, myWorld.getChoiceManager().getStory());
 		setChoices(table, myWorld.getChoiceManager().getChoices());
 		
-		table.setPosition(50, screenHeight - table.getPrefHeight() - 50);
+		table.setPosition(50, screenHeight - table.getPrefHeight() - 100);
 
 		table.pack();
 	}

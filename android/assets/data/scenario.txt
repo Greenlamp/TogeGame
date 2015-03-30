@@ -1,50 +1,50 @@
-Tu es dans ton lit, tu regardes autour de toi, tu vois tes vetements eparpilles partout dans ta chambre, tu te rends compte que ta soiree d'hier fut rude et qu'il ne te reste plus beaucoups de souvenir, que fais-tu ?#2#3#3#J'enfile mes vetements, je prend ma penne, ma toge et je sors de chez moi#Je m'habille, je mange un truc, et je sors de chez moi avec ma penne et ma toge#je vais prendre une douche, je prend un truc a manger, et je sors en prenant ma penne et ma toge.
-Tu te diriges vers le cercle mais tu es à la bourre, tu pourrais prendre le bus mais tu n'as pas pris ton abonnements avec toi, que fais-tu ?#3#None#None#J'y vais a pied, ca me fera mon sport annuel#None#None
-Tu arrives sur le campus de la plaine et tu rencontres un groupe d'amis d'une autre faculte, après quelques minutes de discussion, ils t'invitent à leur fut deleg ce soir a 1h30, que fais-tu ?#4#None#None#J'accepte, mais je promet pas d'etre la#None#None
-Tu arrives finalement au cercle avec un peu de retard, quel excuse donnes-tu ?#5#None#None#Mon reveil n'a pas sonner, j'ai fait au plus vite#None#None
-Tu as echapper de peu au blame, tu as juste rater la partir sur la reunion ACE, il y a un bac reunion, que fais-tu ?#6#None#None#Je m'enfile quelques biere et j'ecoute vaguement ce qui se dit a la reunion#None#None
-Apres avoir bu 2-3 bieres pozay, tu te dis qu'il faudrait faire quelques blagues car la c'est decidemment trop serieux, que dis-tu ?#7#None#None#Rien, je laisse les jeux de mot pourri a Kochary#None#None
-La reunion se termine, sans qu'il n'y ait rien eu de tres important de dit, que fais-tu ?#8#None#None#je reste pour assister a la reunion du comite de bapt#None#None
-Tu enchaines avec la reunion du comite de bapteme pour organiser l'acti de ce soir, c'est le TP guindaille, quel stand veux-tu occuper ?#9#None#None#Poissonerie#None#None
+Tu es dans ton lit, tu regardes autour de toi, tu vois tes vêtements éparpillés partout dans ta chambre, tu te rends compte que ta soirée d'hier fut rude et qu'il ne te reste plus beaucoups de souvenir, que fais-tu ?#2#3#3#J'enfile mes vêtements, je prend ma penne, ma toge et je sors de chez moi#Je m'habille, je mange un truc, et je sors de chez moi avec ma penne et ma toge#je vais prendre une douche, je prend un truc à manger, et je sors en prenant ma penne et ma toge.
+Tu te diriges vers le cercle mais tu es à la bourre, tu pourrais prendre le bus mais tu n'as pas pris ton abonnements avec toi, que fais-tu ?#3#None#None#J'y vais a pied, ça me fera mon sport annuel#None#None
+Tu arrives sur le campus de la plaine et tu rencontres un groupe d'amis d'une autre faculté, après quelques minutes de discussion, ils t'invitent à leur fut déleg ce soir à 1h30, que fais-tu ?#4#None#None#J'accepte, mais je promets pas d'être là#None#None
+Tu arrives finalement au cercle avec un peu de retard, quelle excuse donnes-tu ?#5#None#None#Mon réveil n'a pas sonné, j'ai fait au plus vite#None#None
+Tu as échappé de peu au blame, tu as juste raté la partie sur la réunion ACE, il y a un bac réunion, que fais-tu ?#6#None#None#Je m'enfile quelques bière et j'écoute vaguement ce qui se dit à la réunion#None#None
+Après avoir bu 2-3 bières pozay, tu te dis qu'il faudrait faire quelques blagues car là c'est décidemment trop sérieux, que dis-tu ?#7#None#None#Rien, je laisse les jeux de mot pourri à Kochary#None#None
+La réunion se termine, sans qu'il n'y ait rien eu de très important de dit, que fais-tu ?#8#None#None#je reste pour assister a la réunion du comité de bapt#None#None
+Tu enchaines avec la réunion du comité de baptême pour organiser l'acti de ce soir, c'est le TP guindaille, quel stand veux-tu occuper ?#9#None#None#Poissonerie#None#None
 Tu as choisi le stand poissonerie#11#10#None#Oui#Non#None
-Tu as choisi le stand cremerie#11#9#None#Oui#Non#None
-Une tournee est prevue, vas-tu y aller ?#12#None#None#Bien entendu#None#None
-Gros depart avec tous le monde vers les prefabs et un fut, un bus arrive et tous le monde va dedans, vas-tu les suivre ?#13#None#None#Ouais, j'ai pas envie de me retrouver seul comme un boloss#None#None
-Heureusement, il n'y a pas eu de controle, vous arrivez donc au solbosch, que fais-tu ?#14#None#None#Je met ma toge et je prepare mon foie en me dirigeant vers le CPS#None#None
-Vous attendez quelques minutes que tous le monde se ramene, et vous commencez a tourner, apres 2 prefabs, tu as deja envie de vomir, que fais-tu ?#15#None#None#Je me met des gros doigts, rien a foutre de vomir n'importe ou !#None#None
-Tu t'enfonces la moitie de la main dans la gorge et tu vomis ta race, c'est reparti ! Finalement, la tournee se termine au square G, que fais-tu ?#16#None#None#Il commence a se faire tard, tous le monde est deja presque parti, je me dirige vers le Colruyt#None#None
-Tu te diriges vers le Colruyt, pour acheter de la picole et des trucs pour l'acti, veux-tu acheter autre chose ?#17#None#None#Une pizza evidemmeng#None#None
+Tu as choisi le stand crèmerie#11#9#None#Oui#Non#None
+Une tournée est prévue, vas-tu y aller ?#12#None#None#Bien entendu#None#None
+Gros départ avec tous le monde et un fût vers les préfabs, un bus arrive et tous le monde va dedans, vas-tu les suivre ?#13#None#None#Ouais, j'ai pas envie de me retrouver seul comme un boloss#None#None
+Heureusement, il n'y a pas eu de contrôle, vous arrivez donc au solbosch, que fais-tu ?#14#None#None#Je met ma toge et je prépare mon foie en me dirigeant vers le CPS#None#None
+Vous attendez quelques minutes que tous le monde se ramène, et vous commencez a tourner, apres 2 préfabs, tu as déja envie de vomir, que fais-tu ?#15#None#None#Je me met des gros doigts, rien à foutre de vomir n'importe où !#None#None
+Tu t'enfonces la moitié de la main dans la gorge et tu vomis ta race, c'est reparti ! Finalement, la tournée se termine au square G, que fais-tu ?#16#None#None#Il commence à se faire tard, presque tous le monde est déja parti, je me dirige vers le Colruyt#None#None
+Tu te diriges vers le Colruyt, pour acheter de la picole et des trucs pour l'acti, veux-tu acheter autre chose ?#17#None#None#Une pizza évidemmeng#None#None
 Tu sors du Colruyt et te diriges de nouveau vers le cercle, que fais-tu lorsque tu arrives ?#18#None#None#je met ma pizza chauffer#None#None
-Tu met ta pizza chauffer, et tu prepares les melanges d'alcool et les crasses pour les bleus, que fais-tu ensuite ?#19#None#None#Je prepare vite fait les stands avec les autres, mais je m'applique pas trop, ca va etre quand meme tout degueu au final#None#None
-Les stands sont correctement preparer et il est finalement temps de picoler, que fais-tu pendant ce temps ?#20#None#None#Rien, je picole sec en me foutant de la gueule de secu, la base#None#None
-Tu viens de recevoir un appel des comitards de cercle, tous les bleus sont la, il est temps de demarrer, que fais-tu ?#21#None#None#J'afone ce qu'il me reste, et on demarre pour aller leur montrer a ces bleus !#None#None
-Tu arrives avec les autres en courant au kot a bleu et tu t'apercois qu'il manque 2 bleus par rapport a l'acti d'avant, que fais-tu ?#22#None#None#je gueule sur les bleus pour savoir ou est leur petit copain, j'attend ensuite qu'ils crient#None#None
+Tu mets ta pizza chauffer, et tu prépares les mélanges d'alcool et les crasses pour les bleus, que fais-tu ensuite ?#19#None#None#Je prépare vite fait les stands avec les autres, mais je m'applique pas trop, ça va être quand même tout degueu au final#None#None
+Les stands sont correctement préparés et il est finalement temps de picoler, que fais-tu pendant ce temps ?#20#None#None#Rien, je picole sec en me foutant de la gueule de sécu, la base#None#None
+Tu viens de recevoir un appel des comitards de cercle, tous les bleus sont là, il est temps de demarrer, que fais-tu ?#21#None#None#J'afone ce qu'il me reste, et on démarre pour aller leur montrer a ces bleus !#None#None
+Tu arrives avec les autres en courant au kot à bleu et tu t'aperçois qu'il manque 2 bleus par rapport à l'acti d'avant, que fais-tu ?#22#None#None#je gueule sur les bleus pour savoir où est leur petit copain, j'attend ensuite qu'ils crient#None#None
 Les bleus ne disent rien, et ne bougent pas, que fais-tu ?#23#None#None#Je leur gueule dessus en leur disant que j'entend rien, ils captent finalement qu'il faut faire le cri#None#None
-Apres que les bleus ayent tant bien que mal fais le cri, que fais-tu ?#24#None#None#Je leur dis que c'est de la merde, et je crie avec le comite pour leur montrer comment on crie au CI#None#None
-Ca c'est un cri les bleus ! Que fais-tu maintenant ?#25#None#None#On emmene les bleus vers le cercle pour commencer les rejouissance#None#None
+Après que les bleus ayent tant bien que mal fais le cri, que fais-tu ?#24#None#None#Je leur dis que c'est de la merde, et je crie avec le comité pour leur montrer comment on crie au CI#None#None
+ça c'est un cri les bleus ! Que fais-tu maintenant ?#25#None#None#On emmène les bleus vers le cercle pour commencer les réjouissance#None#None
 Sur le chemin vers le cercle, vous faites les bleus s'arreter au bord de la route, que fais-tu ?#26#None#None#Je leur demande le nom de la route, classique#None#None
-C'etait naze les bleus, comment la route s'apelle aujourd'hui ?#27#None#None#La root directory, curieusement, personne ne l'avait encore faite celle la#None#None
-C'etait pas plus fameux, mais bon, c'est que des bleus, vous vous dirigez donc vers le cercle, que fais-tu sur le trajet ?#28#None#None#On leur fait crier de la merde, en leur faisant le ci-git popolson#None#None
-Vous arrivez au cercle, vous devez faire 5 groupes de 5 (oui il y a 25 bleus cette annee, qui l'eut cru :p), que fais-tu ?#29#None#None#Je laisse les autres s'en occuper, ils ont l'air de faire ca tres bien#None#None
-Les groupes sont former, vous les alignez sur la grille et leur donner des sacs poubelle pour proteger leur vetements, que fais-tu ?#30#None#None#je m'ouvre une petite jup et je me moque des bleus avec les autres#None#None
-Les autres mettent du temps a terminer de preparer leur stands, que fais-tu ?#31#None#None#Je fais une petite animation a base de course et de carapils#None#None
-Tous le monde est pret, on peut commencer, tu te diriges vers le stand que tu as choisi d'animer ce soir.#47#48#None#Poissonerie#Cremerie#None
-L'acti est terminee, vous faites chanter le semeur aux bleus, c'etait quoi encore le debut du 2e couplet ?#50#50#49#Semeur vaillant du reve#C'est pour nous que se leve, la moisson d'avenir#Aux reves de notre age, larges ambitieux
-Tu arrives au TD, que fais-tu ?#34#None#None#Je donne les euros des bleus a l'entree ace#None#None
-Un bleu archi se ramene vers toi et te dis, "Comitard de baptême CDS, je veux vous afoner", que reponds-tu ?#35#None#None#j'ai l'air de faire partie du CDS bleu!?#None#None
-Tu afones quand meme le bleu, et tu continues ton chemin, entres temps, 3 autes bleus t'ont afonner, tu as deja envie de vomir, que faire ?#36#None#None#je sors vomir un coup#None#None
-Tu re-rentre, tu regardes ta montre, il est presque 1h30, que fais-tu ?#37#None#None#je me dirige vers le fut qu'on m'avait proposer#None#None
-Tu te tues a ce fut, afond sur afond, vomi sur vomi, tu ressors finalement de la, et tu te retrouves de nouveau dans la salle, que faire ?#38#None#None#je cherche mon comite#None#None
-Tu as reussi a convaincre les bleus d'afoner le prez de bapt a ta place, t'en peux vraiment plus, que fais-tu ?#39#None#None#Je sors vomir encore, et je recommence a afoner jusqu'a la fin du TD#None#None
-Le TD se finit et il est temps de rassembler les bleus, que fais-tu ?#40#None#None#Je gueule apres les bleus, si ils sont pas la, pas de signature, et puis direction le luigi's pour l'after !#None#None
-Vous vous dirigez a l'after au luigi's avec les 12 bleus survivors, vous avez de la chance, il est ouvert aujourd'hui, vous entrez, que faites-vous ?#41#None#None#On fait faire une battle de danse aux bleus pour les occuper#None#None
-Les bleus sont vraiment nul, tu te diriges rejoindre les autres comitards qui se sont pozay a table avec un metre d'alfredo, que fais-tu ?#42#None#None#Je bois quelques alfredo, la base, puis je vais me faire un petit kick#None#None
-Apres quelques parties de kicker, tu as bien demontrer aux bleus qu'ils avaient aucunes chances, que fais-tu ?#43#None#None#Je me reprend un alfredo, et je continue#None#None
-Il est 6h, que fais-tu ?#44#None#None#On commence a lacher les bleus, ils commencent a ne plus tenir debout#None#None
-Il est 7h, que fais-tu ?#45#None#None#Je rentre chez moi, je suis crever#None#None
-Tu arrives chez toi, mais tu te rapelles que tu as cours le lendemain a 10h30, que fais-tu ?#46#None#None#Je met mon reveil, faut pas que je commence a rater trop de cours#None#None
-Le reveil sonne, mais tu es trop mort pour te lever, tant pis, je me rattraperais ce w-e tu te dis, mais toi meme tu sais que ce n'est qu'un mensonge, tu te reveille a 14h du matin pour retourner en tournee, et continuer a te mettre des races comme ca jusqu'au jour ou ces bleus seront finalement baptizay, la morale de l'histoire: rien ne sert de planifier ces journees a l'avance, tu seras trop saoul pour t'en rapeller :D Merci d'avoir jouer !#None#None#None#None#None#None
-Ces bleus sont vraiment des chochotes, mais tu as quand meme reussi a leur faire avaler puis vomir leur poisson !#32#None#None#La base#None#None
-Tu as fais une facile a la stifler's style avec du lait a quelques bleus, ils subissent tous leur vies avec le beurre#32#None#None#la base#None#None
-Tu leur proposer ensuite d'aller au TD, que fais-tu ?#33#None#None#je prend leur 1 euro a tous et leur fais preter si un de leur petit copain n'a pas#None#None#None#Direction le TD maintenant !#None#None
-bravo, tu te rapelles meme pas de ton semeur, nouvelle chance !#32#None#None#Merci, trop sympas !#None#None
+C'était naze les bleus, comment la route s'appele aujourd'hui ?#27#None#None#La root directory, curieusement, personne ne l'avait encore faite celle la#None#None
+C'était pas plus fameux, mais bon, c'est que des bleus, vous vous dirigez donc vers le cercle, que fais-tu sur le trajet ?#28#None#None#On leur fait crier de la merde, en leur faisant le ci-git Popolson#None#None
+Vous arrivez au cercle, vous devez faire 5 groupes de 5 (oui il y a 25 bleus cette année, qui l'eut cru :p), que fais-tu ?#29#None#None#Je laisse les autres s'en occuper, ils ont l'air de faire ça très bien#None#None
+Les groupes sont formés, vous les alignez sur la grille et leur donner des sacs poubelle pour protéger leur vêtements, que fais-tu ?#30#None#None#je m'ouvre une petite jup et je me moque des bleus avec les autres, ils sont décidémment trop ridicule ainsi#None#None
+Les autres mettent du temps a terminer de preparer leur stands, que fais-tu ?#31#None#None#Je fais une petite animation à base de course et de Carapils#None#None
+Tous le monde est prêt, on peut commencer, tu te diriges vers le stand que tu as choisis d'animer ce soir.#47#48#None#Poissonerie#Crèmerie#None
+L'acti est terminée, vous faites chanter le semeur aux bleus, c'etait quoi encore le début du 2ème couplet ?#50#50#49#Semeur vaillant du rêve#C'est pour nous que se lève, la moisson d'avenir#Aux rêves de notre âge, larges ambitieux
+Tu arrives au TD, que fais-tu ?#34#None#None#Je donne les euros des bleus a l'entrée ACE#None#None
+Un bleu archi se ramène vers toi et te dis, "Comitard de baptême CDS, je veux vous afoner", que reponds-tu ?#35#None#None#j'ai l'air de faire partie du CDS bleu!?#None#None
+Tu afones quand même le bleu, et tu continues ton chemin, entres temps, 3 autres bleus t'ont afonnés, tu as déja envie de vomir, que faire ?#36#None#None#je sors vomir un coup#None#None
+Tu re-rentre, tu regardes ta montre, il est presque 1h30, que fais-tu ?#37#None#None#je me dirige vers le fût qu'on m'avait proposé#None#None
+Tu te tues à ce fût, afond sur afond, vomi sur vomi, tu ressors finalement de là, et tu te retrouves de nouveau dans la salle, que faire ?#38#None#None#je cherche mon comité#None#None
+Tu as réussi a convaincre les bleus d'afoner le prez de bapt à ta place, t'en peux vraiment plus, que fais-tu ?#39#None#None#Je sors vomir encore, et je recommence à afoner jusqu'à la fin du TD#None#None
+Le TD se finit et il est temps de rassembler les bleus, que fais-tu ?#40#None#None#Je gueule après les bleus, si ils sont pas là, pas de signature, et puis direction le luigi's pour l'after !#None#None
+Vous vous dirigez à l'after au luigi's avec les 12 bleus survivors, vous avez de la chance, il est ouvert aujourd'hui, vous entrez, que faites-vous ?#41#None#None#On fait faire une battle de danse aux bleus pour les occuper#None#None
+Les bleus sont vraiment nul, tu te diriges rejoindre les autres comitards qui se sont pozay à table avec des mètres d'alfredo, que fais-tu ?#42#None#None#Je bois quelques alfredo, la base, puis je vais me faire un petit kick#None#None
+Apres quelques parties de kicker, tu as bien démontrer aux bleus qu'ils avaient aucunes chances, que fais-tu ?#43#None#None#Je me reprend un alfredo, et je continue#None#None
+Il est 6h, que fais-tu ?#44#None#None#On lache les bleus, ils commencent à ne plus tenir debout#None#None
+Il est 7h, que fais-tu ?#45#None#None#Je rentre chez moi, je suis crevé#None#None
+Tu arrives chez toi, mais tu te rappeles que tu as cours le lendemain a 10h30, que fais-tu ?#46#None#None#Je met mon réveil, faut pas que je commence a rater trop de cours#None#None
+Le réveil sonne, mais tu es trop mort pour te lever, tant pis, je me rattraperais ce w-e tu te dis, mais toi même tu sais que ce n'est qu'un mensonge, tu te reveilles à 14h du matin pour retourner en tournée, et continuer à te mettre des races comme ça jusqu'au jour où ces bleus seront finalement baptizay, la morale de l'histoire: rien ne sert de planifier ces journées, tu seras trop saoûl pour t'en rapeller :D Merci d'avoir jouer !#None#None#None#None#None#None
+Ces bleus sont vraiment des chochotes, mais tu as quand même réussi à leur faire avaler puis vomir leur poisson !#32#None#None#La base#None#None
+Tu as fais une faciale a la Stifler's style avec du lait à quelques bleus, ils subissent tous leur vies avec le beurre#32#None#None#la base#None#None
+Tu leur proposes ensuite d'aller au TD, que fais-tu ?#33#None#None#je prend leur euro à tous et leur fais prêter si un de leur petit copain n'à pas#None#None#None#Direction le TD maintenant !#None#None
+bravo, tu te rappeles même pas de ton semeur, nouvelle chance !#32#None#None#Merci, trop sympas !#None#None
