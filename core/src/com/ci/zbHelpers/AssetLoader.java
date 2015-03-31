@@ -4,6 +4,7 @@ import java.io.File;
 
 import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.Preferences;
+import com.badlogic.gdx.audio.Music;
 import com.badlogic.gdx.audio.Sound;
 import com.badlogic.gdx.files.FileHandle;
 import com.badlogic.gdx.graphics.Texture;
@@ -18,6 +19,8 @@ public class AssetLoader {
     public static FileHandle  scenario;
     public static Texture logoTexture, back;
     public static TextureRegion logo;
+    public static Music music;
+    public static Music route;
     
     public static void load() {
     	prefs = Gdx.app.getPreferences("ZombieBird");
@@ -31,6 +34,7 @@ public class AssetLoader {
         logoTexture.setFilter(TextureFilter.Linear, TextureFilter.Linear);
 
         logo = new TextureRegion(logoTexture, 0, 0, 512, 114);
+        route = Gdx.audio.newMusic(Gdx.files.internal("data/route.mp3"));
     }
     
  // Receives an integer and maps it to the String highScore in prefs

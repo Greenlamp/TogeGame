@@ -29,6 +29,8 @@ public class GameScreen implements Screen{
 		world = new GameWorld(midPointY);
 		Gdx.input.setInputProcessor(new InputHandler(world));
 		renderer = new GameRenderer(world, (int) gameHeight, midPointY);
+		AssetLoader.route.play();
+		AssetLoader.route.setLooping(true);
 	}
 
 	@Override
@@ -61,5 +63,7 @@ public class GameScreen implements Screen{
 	@Override
 	public void dispose() {
 		world.getStage().dispose();
+		AssetLoader.music.dispose();
+		
 	}
 }
