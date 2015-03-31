@@ -58,11 +58,15 @@ public class ChoiceManager {
 	}
 
 	public void changePage(int selection){
-		Gdx.app.log("ZBGame", "selection: " + selection);
-		int link = currentPage.getLink(selection);
-		Gdx.app.log("ZBGame", "link: " + link);
-		this.currentPage = pages.get(link);
-		Gdx.app.log("ZBGame", "currentPage: " + currentPage.getStory());
+		if(selection == -1){
+			currentPage = pages.get(1);
+		}else{
+			Gdx.app.log("ZBGame", "selection: " + selection);
+			int link = currentPage.getLink(selection);
+			Gdx.app.log("ZBGame", "link: " + link);
+			this.currentPage = pages.get(link);
+			Gdx.app.log("ZBGame", "currentPage: " + currentPage.getStory());
+		}
 	}
 	
 	public String getStory(){

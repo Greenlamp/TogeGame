@@ -105,6 +105,15 @@ public class GameRenderer {
 			MyClickListener mcl = new MyClickListener(myWorld, choices.indexOf(choice));
 			bouton.addListener(mcl);
 		}
+		table.row();
+		TextButton bouton = new TextButton("Recommencer",skin);
+		bouton.getLabel().setFontScale(2.0f);
+		bouton.setWidth(screenWidth);
+		bouton.getLabel().setWrap(true);
+		table.add(bouton).minWidth(screenWidth - 100).minHeight(110 * scale).fill();
+		
+		MyClickListener mcl = new MyClickListener(myWorld, -1);
+		bouton.addListener(mcl);
 	}
 
 	private void setStory(Table table, String story) {
