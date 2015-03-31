@@ -15,6 +15,8 @@ import com.badlogic.gdx.graphics.g2d.TextureRegion;
 public class AssetLoader {
     private static Preferences prefs;
     public static FileHandle  scenario;
+    public static Texture logoTexture;
+    public static TextureRegion logo;
     
     public static void load() {
     	prefs = Gdx.app.getPreferences("ZombieBird");
@@ -22,6 +24,11 @@ public class AssetLoader {
     	    prefs.putInteger("highScore", 0);
     	}
     	scenario = Gdx.files.internal("data/scenario.txt");
+
+        logoTexture = new Texture(Gdx.files.internal("data/logo.png"));
+        logoTexture.setFilter(TextureFilter.Linear, TextureFilter.Linear);
+
+        logo = new TextureRegion(logoTexture, 0, 0, 512, 114);
     }
     
  // Receives an integer and maps it to the String highScore in prefs

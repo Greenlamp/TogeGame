@@ -2,6 +2,10 @@ package com.ci.gameworld;
 
 import java.util.List;
 
+import aurelienribon.tweenengine.Tween;
+import aurelienribon.tweenengine.TweenEquations;
+import aurelienribon.tweenengine.TweenManager;
+
 import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.graphics.Color;
 import com.badlogic.gdx.graphics.g2d.BitmapFont;
@@ -10,6 +14,7 @@ import com.badlogic.gdx.graphics.OrthographicCamera;
 import com.badlogic.gdx.graphics.Texture.TextureFilter;
 import com.badlogic.gdx.graphics.g2d.SpriteBatch;
 import com.badlogic.gdx.graphics.glutils.ShapeRenderer;
+import com.badlogic.gdx.graphics.glutils.ShapeRenderer.ShapeType;
 import com.badlogic.gdx.scenes.scene2d.InputEvent;
 import com.badlogic.gdx.scenes.scene2d.Stage;
 import com.badlogic.gdx.scenes.scene2d.ui.Dialog;
@@ -19,6 +24,8 @@ import com.badlogic.gdx.scenes.scene2d.ui.Table;
 import com.badlogic.gdx.scenes.scene2d.ui.TextButton;
 import com.badlogic.gdx.scenes.scene2d.utils.Align;
 import com.badlogic.gdx.scenes.scene2d.utils.ClickListener;
+import com.ci.TweenAccessors.Value;
+import com.ci.TweenAccessors.ValueAccessor;
 import com.ci.gameobjects.MyClickListener;
 
 public class GameRenderer {
@@ -33,6 +40,10 @@ public class GameRenderer {
 	Skin skin;
 	float scale;
 	int cpt = 0;
+
+	// Tween stuff
+	private TweenManager manager;
+	private Value alpha = new Value();
 
 	public GameRenderer(GameWorld world, int gameHeight, int midPointY) {
 		myWorld = world;
@@ -52,7 +63,15 @@ public class GameRenderer {
 		Gdx.input.setInputProcessor(myWorld.getStage());
 		initGameObjects();
 		initAssets();
+		setupTweens();
 
+	}
+
+	private void setupTweens() {
+		Tween.registerAccessor(Value.class, new ValueAccessor());
+		manager = new TweenManager();
+		Tween.to(alpha, -1, .5f).target(0).ease(TweenEquations.easeOutQuad)
+				.start(manager);
 	}
 
 	private void initGameObjects() {
@@ -102,11 +121,14 @@ public class GameRenderer {
 
 		Gdx.gl.glClearColor(0, 0, 0, 1);
 		Gdx.gl.glClear(GL20.GL_COLOR_BUFFER_BIT);
+		if (myWorld.isRunning()) {
+			initAssets();
+			
+			myWorld.getStage().act(delta);
+			myWorld.getStage().draw();
+		}
 		
-		initAssets();
-		
-		myWorld.getStage().act(delta);
-		myWorld.getStage().draw();
+		drawTransition(delta);
 
 		
 		//272
@@ -120,5 +142,19 @@ public class GameRenderer {
 		font.draw(spriteBatch, str, 100, screenHeight);
 		spriteBatch.end();*/
 
+	}
+
+	private void drawTransition(float delta) {
+		if (alpha.getValue() > 0) {
+			manager.update(delta);
+			Gdx.gl.glEnable(GL20.GL_BLEND);
+			Gdx.gl.glBlendFunc(GL20.GL_SRC_ALPHA, GL20.GL_ONE_MINUS_SRC_ALPHA);
+			shapeRenderer.begin(ShapeType.Filled);
+			shapeRenderer.setColor(1, 1, 1, alpha.getValue());
+			shapeRenderer.rect(0, 0, 136, 300);
+			shapeRenderer.end();
+			Gdx.gl.glDisable(GL20.GL_BLEND);
+
+		}
 	}
 }
