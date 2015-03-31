@@ -10,12 +10,13 @@ import com.badlogic.gdx.graphics.Texture;
 import com.badlogic.gdx.graphics.Texture.TextureFilter;
 import com.badlogic.gdx.graphics.g2d.Animation;
 import com.badlogic.gdx.graphics.g2d.BitmapFont;
+import com.badlogic.gdx.graphics.g2d.Sprite;
 import com.badlogic.gdx.graphics.g2d.TextureRegion;
 
 public class AssetLoader {
     private static Preferences prefs;
     public static FileHandle  scenario;
-    public static Texture logoTexture;
+    public static Texture logoTexture, back;
     public static TextureRegion logo;
     
     public static void load() {
@@ -26,6 +27,7 @@ public class AssetLoader {
     	scenario = Gdx.files.internal("data/scenario.txt");
 
         logoTexture = new Texture(Gdx.files.internal("data/logo.png"));
+        back = new Texture(Gdx.files.internal("data/back.png"));
         logoTexture.setFilter(TextureFilter.Linear, TextureFilter.Linear);
 
         logo = new TextureRegion(logoTexture, 0, 0, 512, 114);

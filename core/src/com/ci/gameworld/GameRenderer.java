@@ -9,6 +9,7 @@ import aurelienribon.tweenengine.TweenManager;
 import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.graphics.Color;
 import com.badlogic.gdx.graphics.g2d.BitmapFont;
+import com.badlogic.gdx.graphics.g2d.Sprite;
 import com.badlogic.gdx.graphics.GL20;
 import com.badlogic.gdx.graphics.OrthographicCamera;
 import com.badlogic.gdx.graphics.Texture.TextureFilter;
@@ -27,6 +28,7 @@ import com.badlogic.gdx.scenes.scene2d.utils.ClickListener;
 import com.ci.TweenAccessors.Value;
 import com.ci.TweenAccessors.ValueAccessor;
 import com.ci.gameobjects.MyClickListener;
+import com.ci.zbHelpers.AssetLoader;
 
 public class GameRenderer {
 
@@ -125,11 +127,32 @@ public class GameRenderer {
 		table.add(label).minWidth(screenWidth - 100).minHeight(110 * scale).fill();
 		table.row();
 	}
+	
+	public void renderBack(float delta){
+		Sprite sprite = new Sprite(AssetLoader.back);
+        //sprite.setColor(1, 1, 1, 0);
+
+        float width = Gdx.graphics.getWidth();
+        float height = Gdx.graphics.getHeight();
+        float desiredWidth = width * .7f;
+        float scale = desiredWidth / sprite.getWidth();
+
+        sprite.setSize(sprite.getWidth() * scale, sprite.getHeight() * scale);
+        sprite.setPosition((width / 2) - (sprite.getWidth() / 2), (height / 2)
+                - (sprite.getHeight() / 2));
+        batcher = new SpriteBatch();
+        batcher.begin();
+        sprite.draw(batcher);
+        batcher.end();
+	}
 
 	public void render(float delta, float runTime) {
 
 		Gdx.gl.glClearColor(0, 0, 0, 1);
 		Gdx.gl.glClear(GL20.GL_COLOR_BUFFER_BIT);
+        
+		renderBack(delta);
+		
 		if (myWorld.isRunning()) {
 			initAssets();
 			
@@ -138,18 +161,6 @@ public class GameRenderer {
 		}
 		
 		drawTransition(delta);
-
-		
-		//272
-		/*CharSequence str = "Width: " + String.valueOf(screenWidth);
-		SpriteBatch spriteBatch = new SpriteBatch();
-		BitmapFont font = new BitmapFont();
-
-		spriteBatch.begin();
-		font.draw(spriteBatch, str, 0, screenHeight);
-		str = "Height: " + String.valueOf(screenHeight);
-		font.draw(spriteBatch, str, 100, screenHeight);
-		spriteBatch.end();*/
 
 	}
 
