@@ -1,17 +1,17 @@
-Tu es dans ton lit, tu regardes autour de toi, tu vois tes vêtements éparpillés partout dans ta chambre, tu te rends compte que ta soirée d'hier fut rude et qu'il ne te reste plus beaucoups de souvenir, que fais-tu ?#2#3#3#J'enfile mes vêtements, je prend ma penne, ma toge et je sors de chez moi#Je m'habille, je mange un truc, et je sors de chez moi avec ma penne et ma toge#je vais prendre une douche, je prend un truc à manger, et je sors en prenant ma penne et ma toge.
-Tu te diriges vers le cercle mais tu es à la bourre, tu pourrais prendre le bus mais tu n'as pas pris ton abonnements avec toi, que fais-tu ?#3#None#None#J'y vais a pied, ça me fera mon sport annuel#None#None
-Tu arrives sur le campus de la plaine et tu rencontres un groupe d'amis d'une autre faculté, après quelques minutes de discussion, ils t'invitent à leur fut déleg ce soir à 1h30, que fais-tu ?#4#None#None#J'accepte, mais je promets pas d'être là#None#None
-Tu arrives finalement au cercle avec un peu de retard, quelle excuse donnes-tu ?#5#None#None#Mon réveil n'a pas sonné, j'ai fait au plus vite#None#None
-Tu as échappé de peu au blame, tu as juste raté la partie sur la réunion ACE, il y a un bac réunion, que fais-tu ?#6#None#None#Je m'enfile quelques bière et j'écoute vaguement ce qui se dit à la réunion#None#None
-Après avoir bu 2-3 bières pozay, tu te dis qu'il faudrait faire quelques blagues car là c'est décidemment trop sérieux, que dis-tu ?#7#None#None#Rien, je laisse les jeux de mot pourri à Kochary#None#None
-La réunion se termine, sans qu'il n'y ait rien eu de très important de dit, que fais-tu ?#8#None#None#je reste pour assister a la réunion du comité de bapt#None#None
-Tu enchaines avec la réunion du comité de baptême pour organiser l'acti de ce soir, c'est le TP guindaille, quel stand veux-tu occuper ?#9#None#None#Poissonerie#None#None
+Tu es dans ton lit, tu regardes autour de toi, tu vois tes vêtements éparpillés partout dans ta chambre, tu te rends compte que ta soirée d'hier fut rude et qu'il ne te reste plus beaucoups de souvenir, que fais-tu ?#2#2#2#J'enfile mes vêtements, je prend ma penne, ma toge et je sors de chez moi#Je m'habille, je mange un truc, et je sors de chez moi avec ma penne et ma toge#je vais prendre une douche, je prend un truc à manger, et je sors en prenant ma penne et ma toge.
+Tu te diriges vers le cercle mais tu es à la bourre, tu pourrais prendre le bus mais tu n'as pas pris ton abonnements avec toi, que fais-tu ?#3#51#None#J'y vais a pied, ça me fera mon sport annuel#Je prend le bus, il n'y a jamais de contrôle de toute façon#None
+Tu arrives sur le campus de la plaine et tu rencontres un groupe d'amis d'une autre faculté, après quelques minutes de discussion, ils t'invitent à leur fut déleg ce soir à 1h30, que fais-tu ?#4#61#None#J'accepte, mais je promets pas d'être là#Je refuse, j'ai pas que ça à faire#None
+Tu arrives finalement au cercle avec un peu de retard, quelle excuse donnes-tu ?#5#72#None#Mon réveil n'a pas sonné, j'ai fait au plus vite#J'en avais rien à foutre, je suis là quoi, faites pas chier#None
+Tu as échappé de peu au blame, tu as juste raté la partie sur la réunion ACE, il y a un bac réunion, que fais-tu ?#6#52#53#Je m'enfile quelques bière et j'écoute vaguement ce qui se dit à la réunion#Je bois jamais d'alcool moi#J'enlêve les capsules de toutes les bouteilles
+Après avoir bu 2-3 bières pozay, tu te dis qu'il faudrait faire quelques blagues car là c'est décidemment trop sérieux, que dis-tu ?#7#60#None#Rien, je laisse les jeux de mot pourri à Kochary#je fais 2-3 blagues pour faire genre#None
+La réunion se termine, sans qu'il n'y ait rien eu de très important de dit, que fais-tu ?#8#59#None#je reste pour assister a la réunion du comité de bapt#je me barre, rien à foutre du baptême#None
+Tu enchaines avec la réunion du comité de baptême pour organiser l'acti de ce soir, c'est le TP guindaille, quel stand veux-tu occuper ?#9#10#None#Poissonerie#Crèmerie#None
 Tu as choisi le stand poissonerie#11#10#None#Oui#Non#None
 Tu as choisi le stand crèmerie#11#9#None#Oui#Non#None
-Une tournée est prévue, vas-tu y aller ?#12#None#None#Bien entendu#None#None
+Une tournée est prévue, vas-tu y aller ?#12#73#None#Bien entendu#Nan#None
 Gros départ avec tous le monde et un fût vers les préfabs, un bus arrive et tous le monde va dedans, vas-tu les suivre ?#13#None#None#Ouais, j'ai pas envie de me retrouver seul comme un boloss#None#None
-Heureusement, il n'y a pas eu de contrôle, vous arrivez donc au solbosch, que fais-tu ?#14#None#None#Je met ma toge et je prépare mon foie en me dirigeant vers le CPS#None#None
-Vous attendez quelques minutes que tous le monde se ramène, et vous commencez a tourner, apres 2 préfabs, tu as déja envie de vomir, que fais-tu ?#15#None#None#Je me met des gros doigts, rien à foutre de vomir n'importe où !#None#None
+Heureusement, il n'y a pas eu de contrôle, vous arrivez donc au solbosch, que fais-tu ?#14#80#80#Je met ma toge et je prépare mon foie en me dirigeant vers le CPS#Je commence à courir en criant et en levant les bras#Je fais l'hélicoptère avec ma bite
+Vous attendez quelques minutes que tous le monde se ramène, et vous commencez a tourner, apres 2 préfabs, tu as déja envie de vomir, que fais-tu ?#15#None#81#Je me met des gros doigts, rien à foutre de vomir n'importe où !#Je me retiens, je veux pas m'afficher#je vomis dans ma bouche et j'avalle
 Tu t'enfonces la moitié de la main dans la gorge et tu vomis ta race, c'est reparti ! Finalement, la tournée se termine au square G, que fais-tu ?#16#None#None#Il commence à se faire tard, presque tous le monde est déja parti, je me dirige vers le Colruyt#None#None
 Tu te diriges vers le Colruyt, pour acheter de la picole et des trucs pour l'acti, veux-tu acheter autre chose ?#17#None#None#Une pizza évidemmeng#None#None
 Tu sors du Colruyt et te diriges de nouveau vers le cercle, que fais-tu lorsque tu arrives ?#18#None#None#je met ma pizza chauffer#None#None
@@ -48,3 +48,34 @@ Ces bleus sont vraiment des chochotes, mais tu as quand même réussi à leur faire
 Tu as fais une faciale a la Stifler's style avec du lait à quelques bleus, ils subissent tous leur vies avec le beurre#32#None#None#la base#None#None
 Tu leur proposes ensuite d'aller au TD, que fais-tu ?#33#None#None#je prend leur euro à tous et leur fais prêter si un de leur petit copain n'à pas#None#None#None#Direction le TD maintenant !#None#None
 bravo, tu te rappeles même pas de ton semeur, nouvelle chance !#32#None#None#Merci, trop sympas !#None#None
+Effectivement, pas de contrôle, tu arrives 3 minutes en retard à la réunion, il y a un bac réunion, que fais-tu ?#6#52#53#Je m'enfile quelques bière et j'écoute vaguement ce qui se dit à la réunion#Je bois jamais d'alcool moi#J'enlêve les capsules de toutes les bouteilles
+Tu te prend un soft, tu le payes même, t'es vraiment un pigeon, que fais-tu?#60#7#None#je fais 2-3 blagues pour faire genre#Rien, Kochary fais déja pas mal de vannes pourries#None
+Tu enlêves les capsules de toutes les bouteilles, les autres te voient, te demande ce que tu fous bordel !#54#55#55#Tu les envoies se faire foutre et te barre de la réunion, t'avais pas envie de venir de toute façon#Tu leur explique que tu t'entraines à l'ouverture de bouteilles sans décaps#Tu les ignores
+Tu vas te pozay à la cafet en attendant la fin de la réunion pour aller à la réunion du comité de bapt, il est l'heure, que fais-tu ?#57#59#None#J'y vais#Je rend ma toge#None
+Ils te demandent si tu te fous de leur gueule, et que si t'arrête pas tout de suite, ils te retirent ta carte ACE, que fais-tu ?#7#58#58#J'arrête tout de suite#Rien à foutre je continue#Je les ignores
+blabla#None#None#None#None#None#None
+Tu arrives à la réunion du comité de baptême pour organiser l'acti de ce soir, c'est le TP guindaille, quel stand veux-tu occuper ?#9#10#None#Poissonerie#Crèmerie#None
+Ta carte ACE est retiré et tu es expulsé de la réunion, c'est pas bien de se foutre de la gueule du comité !#54#54#None#Blablabla RAF#C'est bon, je vais me poser à la cafet#None
+Tu t'es fait détogé, tu as perdu ...#None#None#None#None#None#None
+Tes blagues sont naze, tu perds des points dans le PV#7#7#None#Décidemment, Kochary gère mieux que moi à ce jeu là ...#RAF#None
+Tes potes te pensaient plus cool que ça, ils t'envoient te faire foutre et se barrent, que fais-tu ?#4#62#None#Je me dirige vers le cercle#Je les insultes#None
+Ils apprécient pas tes insultes, un bagarre commence entre toi et tes anciens potes, c'est pas cool, que fais-tu ?#66#63#65#Je vais vers le cercle en courant#Je me met à faire des gestes de kung-fu pour les impressionner#Je fais le mort
+Faire des gestes de Kung-Fu n'a pas l'air de vraiment leur faire peur, tu te ramasses quelques droites dans la tronche et tu te retrouves KO#64#None#None#Je me reveille à l'hosto#None#None
+Tu es à l'hosto, tu as perdu.#None#None#None#None#None#None
+Apparement faire le mort à bien marché, pendant 4 secondes, jusqu'à ce qu'ils commencent à te mettre des kick, sans doute des potes à Harlem#64#None#None#Je me reveille à l'hosto#None#None
+Tu arrives au cercle tout éssouflé, quelle excuse donnes-tu ?#5#67#None#Mon réveil n'a pas sonné, j'ai fait au plus vite#Des mecs trop cons ont éssayé de te défoncer#None
+Tout de suite Stifler et les autres de la team Zlatan te demandent où, et sont chaud pour allez les def, que fais-tu ? #70#68#None#Tu calmes le jeu, et assistes à la réunion#Tu leur dit où sont ces mecs#None
+Vous arrivez tout ensemble à l'endroit où ils étaient, mais ils ne sont plus là, dommage, ça sera pour une autre fois que la team Zlatan aura ses chances de démonter des mecs, que fais-tu ?#71#69#None#On retourne au cercle#On se bat entre nous#None
+Vous vous battez entre-vous, c'est un peu débile mais bon, Stifler vous mets tous KO, bizarrement à chaques fois avec seulement 3 patates#64#None#None#Je me reveille à l'hosto#None#None
+les autres se calment et la réunion peut continuer, il y a un bac réunion, que fais-tu ?#6#52#53#Je m'enfile quelques bière et j'écoute vaguement ce qui se dit à la réunion#Je bois jamais d'alcool moi#J'enlêve les capsules de toutes les bouteilles
+Vous retournez au cercle, il y a un bac réunion, que fais-tu ?#6#52#53#Je m'enfile quelques bière et j'écoute vaguement ce qui se dit à la réunion#Je bois jamais d'alcool moi#J'enlêve les capsules de toutes les bouteilles
+ils apprécients pas trop, mais ça passe, tu as juste raté la partie sur la réunion ACE, il y a un bac réunion, que fais-tu ?#6#52#53#Je m'enfile quelques bière et j'écoute vaguement ce qui se dit à la réunion#Je bois jamais d'alcool moi#J'enlêve les capsules de toutes les bouteilles
+La tournée se fait sans toi, tu n'es pas très folklo comme mec, comment t'as fait pour te faire togé ?#74#74#74#J'ai sucer le prez#J'ai payer le prez#Le talent
+Bien sur ... mais du coup, que fais-tu ?#16#75#None#Je rentre chez moi dormir un peu puis je vais au Colruyt#Je vais aux putes#None
+Tu arrives aux putes, tu vois une qui te plait, tu te diriges vers elle et tu lui demande combien, elle te dit que c'est pas une pute mais une meuf qui attend son collecto, tu te prend une gifle et t'as l'air malin, que fais-tu ?#76#77#79#Tu la zlat, la base#Tu subis et tu rentres chez toi#Tu cherches une autre pute
+Tu la zlat mais ses potes se ramenent et t'explosent.#64#None#None#Je me réveille à l'hosto#None#None
+Tu t'es fait souillé, mais heureusement, personne ne l'a vu, tu rentre chez toi pour te tirer une kette, puis tu t'endors, au réveil, que fais-tu ?#16#78#59#Je vais au Colruyt#je me tire une autre kette#Je reste chez moi, rien à foutre du baptême
+Apres avoir réutiliser le même mouchoir que plus tôt pour t'essuyer, tu te dis qu'il est presque temps de sortir de chez toi, que fais-tu ?#16#59#None#Je vais au Colruyt!#Je reste chez moi, rien à foutre du baptême#None
+Tu ne trouves aucunes autres putes à ton gout, tu rentres donc chez toi, la queue entre les jambes comme on dit, tu te tires une kette et tu t'endros, au réveil, que fais-tu ?#16#78#59#Je vais au Colruyt#je me tire une autre kette#Je reste chez moi, rien à foutre du baptême
+Mouais, t'es pas très bien toi dans ta tête en fait, soit, les autres mettent ça sur le compte de l'alcool, tu te diriges donc vers le cps#14#14#None#Ouais on va dire ça#C'est parti !#None
+Tu essayes tant bien que mal d'avaler mais ça ressort par tes narines etc, c'est vraiment dégueulasse, au final, tu vomis quand même.C'est reparti ! Finalement, la tournée se termine au square G, que fais-tu ?#16#None#None#Il commence à se faire tard, presque tous le monde est déja parti, je me dirige vers le Colruyt#None#None
